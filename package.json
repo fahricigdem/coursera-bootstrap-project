@@ -1,16 +1,12 @@
 {
-  "homepage": "http://fahricigdem.github.io/coursera-bootstrap-project",
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build"
+    "lite": "lite-server"
   },
   "author": "",
   "license": "ISC",
