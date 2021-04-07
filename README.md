@@ -1,6 +1,6 @@
-# coursera-bootstrap-project
 
-download on your local computer:
+## Quick Start
 
-npm install
-npm start
+* clone this repo
+* `npm install` for dependencies
+* `npm start` to fire up dev server
