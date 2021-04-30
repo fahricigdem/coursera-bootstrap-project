@@ -64,3 +64,9 @@ body{
     font-size: 2em;
     color:  red !important;
 }
+
+#carouselButtons{
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
