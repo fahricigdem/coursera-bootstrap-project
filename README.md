@@ -1,4 +1,4 @@
-# https://fahricigdem.github.io/coursera-bootstrap-project/dist/index.html
+# https://fahricigdem.github.io/coursera-bootstrap-project/
 # Quick Start
 
 * clone this repo
