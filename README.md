@@ -1,4 +1,4 @@
-# https://fahricigdem.github.io/coursera-bootstrap-project/
+# https://fahricigdem.github.io/restaurant-website-bootstrap-project/
 # Quick Start
 
 * clone this repo
