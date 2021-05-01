@@ -1,5 +1,4 @@
-
-## Quick Start
+# Quick Start
 
 * clone this repo
 * `npm install` for dependencies
